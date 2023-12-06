@@ -4,9 +4,15 @@
 
 ELB= Elastic load balancer is basically used for efficiently manage traffic with high avaibility.
 
-there are three type of ELB available in AWS 1-Application Load Balancer 2-Network Load Balancer 3-Gatway Load Balancer
+there are three type of ELB available in AWS
 
- and one more outdated (Classic Load Balancer)
+1-Application Load Balancer 
+
+2-Network Load Balancer 
+
+3-Gatway Load Balancer
+
+And one more outdated (Classic Load Balancer)
 
 Load balancer distribute loads using
 
