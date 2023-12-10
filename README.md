@@ -1,4 +1,4 @@
-# Configuring-LB-among-two-VPC
+# Configuring-ALB-among-two-VPC
 
 ## Important Terms
 
